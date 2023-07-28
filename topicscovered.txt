@@ -1,0 +1,60 @@
+1.how to import export?
+2.what is nodejs
+3.what is sync and async ?
+4.what is npm,modules,node?
+5.different modules?
+   -fs
+   -path
+   -os
+   -event
+6.3rd party module 
+  -pokemon
+  -socket.io 
+  -mongoose
+  -http
+  -nodemon
+7.what is  -g?
+8.http ?request,response,next?params
+
+
+learning express js
+Goal Driven Learning
+
+pehla ek mern stack app
+aaj ka task 
+mongodb 
+expressjs
+
+
+express js things i learned
+get 
+post 
+listen
+put 
+delete
+json file 
+Router()
+
+
+
+
+ky ky dekhna hai 
+path 
+os 
+fs
+http
+bodyparser
+becrypt
+
+
+
+nodecache
+redis
+nodemailer
+morgan
+nodeg zip
+becrypt
+axios
+lodash
+momentjs(for dates)
+chalk(styling)
